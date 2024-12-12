@@ -1,3 +1,5 @@
+// fucking cod soft
+
 #include <iostream>
 #include <string>
 #include <map>
